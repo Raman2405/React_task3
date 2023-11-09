@@ -1,9 +1,8 @@
 {
-  "homepage":"https://raman2405.github.io/React_task3",
+  "homepage": "https://raman2405.github.io/React_task3",
   "name": "task3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://megarvit.github.io/react-task-3/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
